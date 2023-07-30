@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="patient icon">
+    <file>age.png</file>
+    <file>性别.png</file>
+    <file>生日.png</file>
+    <file>班组名称.png</file>
+  </qresource>
+  <qresource prefix="other icon">
+    <file>制造商档案.png</file>
+    <file>医疗机构 (1).png</file>
+  </qresource>
+  <qresource prefix="study icon">
+    <file>217时间-线性.png</file>
+    <file>日期_o.png</file>
+    <file>分类s.png</file>
+    <file>描述s.png</file>
+    <file>描述.svg</file>
+    <file>名称s.png</file>
+  </qresource>
+  <qresource prefix="series icon">
+    <file>描述 (1).png</file>
+    <file>时间 (1).png</file>
+    <file>日期.png</file>
+  </qresource>
+</RCC>
